@@ -1,2 +1,2 @@
-# smartift-www
-Main website for the Smart Investment Fund Token
+# Cryptofolio.club
+Main website for the Cryptofolio.club
